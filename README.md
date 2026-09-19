@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DeepakAmalWinstarJ">
+  <a href="https://github.com/AS45gaming">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Amel%20Shibu%20%F0%9F%91%8B;Computer%20Science%20Engineer%20%26%20Developer%20%F0%9F%8E%93;Full-Stack%20Web%20%26%20Mobile%20App%20Builder%20%F0%9F%92%BB;AI%2C%20Machine%20Learning%20%26%20IoT%20Innovator%20%F0%9F%A4%96;Turning%20random%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
 </p>
@@ -29,13 +29,13 @@
     <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
   </a>
   &nbsp;
-  <a href="https://github.com/DeepakAmalWinstarJ" target="_blank">
+  <a href="https://github.com/AS45gaming" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepakamalwinstarj&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AS45gaming&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -106,7 +106,7 @@
       <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/DeepakAmalWinstarJ" target="_blank">
+    <a href="https://github.com/AS45gaming" target="_blank">
       <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
     </a>
   </p>
@@ -183,13 +183,13 @@
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=deepakamalwinstarj&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AS45gaming&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deepakamalwinstarj&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AS45gaming&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakamalwinstarj&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AS45gaming&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
 </p>
 
 <p align="center">
