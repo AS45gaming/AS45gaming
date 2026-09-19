@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/M5FCEmWsmt/" target="_blank">
+  <a href="https://leetcode.com/u/AS45server/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
   </a>
   &nbsp;
@@ -121,17 +121,17 @@
 <p align="center"><i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i></p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/M5FCEmWsmt/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/M5FCEmWsmt?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+  <a href="https://leetcode.com/u/AS45server/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/AS45server?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/M5FCEmWsmt/" target="_blank">
+  <a href="https://leetcode.com/u/AS45server/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/M5FCEmWsmt/" target="_blank">
+  <a href="https://leetcode.com/u/AS45server/" target="_blank">
     <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
   </a>
 </p>
