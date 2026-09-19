@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/deepakamalwinstar" target="_blank">
+  <a href="https://www.linkedin.com/in/amel-shibu-559a5b288" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/techwin.in" target="_blank">
+  <a href="https://www.instagram.com/kyntris" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
   </a>
   &nbsp;
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
   </a>
   &nbsp;
-  <a href="mailto:deepakamalwinstarj@gmail.com">
+  <a href="mailto:amelshibu287@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
   &nbsp;
@@ -82,7 +82,7 @@
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>📱 Tech Creator</h4>
-  <p><a href="https://www.instagram.com/techwin.in/" target="_blank"><b>@techwin.in</b></a><br /><sub>Coding Guides &amp; Insights</sub></p>
+  <p><a href="https://www.instagram.com/kyntris" target="_blank"><b>@kyntris</b></a><br /><sub>Coding Guides &amp; Insights</sub></p>
 </td>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🤝 Collaboration</h4>
@@ -213,7 +213,7 @@
 <table border="0" align="center">
 <tr>
 <td align="center" width="220" style="padding: 16px;">
-  <a href="https://www.linkedin.com/in/deepakamalwinstar/" target="_blank">
+  <a href="https://www.linkedin.com/in/amel-shibu-559a5b288" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
     <br /><br />
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
@@ -222,16 +222,16 @@
   <sub><b>Professional Network</b></sub>
 </td>
 <td align="center" width="220" style="padding: 16px;">
-  <a href="https://www.instagram.com/techwin.in/" target="_blank">
+  <a href="https://www.instagram.com/kyntris" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />
     <br /><br />
-    <img src="https://img.shields.io/badge/Instagram-@techwin.in-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@kyntris-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
   </a>
   <br />
   <sub><b>Articles &amp; Tech Guides</b></sub>
 </td>
 <td align="center" width="220" style="padding: 16px;">
-  <a href="mailto:deepakamalwinstarj@gmail.com">
+  <a href="mailto:amelshibu287@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
     <br /><br />
     <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
